@@ -8,12 +8,10 @@ h1{
     background-color: greenyellow;
     padding: 20px ;
     border-bottom: 2px solid black;
-    width: 100%;
 }
 h2{
    padding: 20px ;
    border-bottom: 2px solid black;
-   width: 100%;
 }
 h3{
     padding: 60px;
@@ -27,11 +25,8 @@ h3{
 }
 .main{
     background-color: lightcyan;
-    float: right;
-    width: 80%;
+    width: 100%;
 }
-.foot{
-    clear: both;
-    text-align: center;
+.fs{
     padding: 13px;
 }
