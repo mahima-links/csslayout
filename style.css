@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+h1{
+    background-color: greenyellow;
+    padding: 20px ;
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+h2{
+   padding: 20px ;
+   border-bottom: 2px solid black;
+   width: 100%;
+}
+h3{
+    padding: 60px;
+    border-bottom: 2px solid black;
+}
+.side{
+    background-color: lightgreen;
+    width: 20%;
+    border-right: 2px solid black;
+    float: left;
+}
+.main{
+    background-color: lightcyan;
+    float: right;
+    width: 80%;
+}
+.foot{
+    clear: both;
+    text-align: center;
+    padding: 13px;
+}
